@@ -67,42 +67,37 @@ Betterment costs $4 a month or a .25% annual fee which is affordable for new inv
 
 So what is Betterment impact? It's one of the first independent,  low-cost, and statistic based  robo advisors that steps customers through a series of goal setting to diversify a portfolio that undergo rebalancing to stay on track with high returns. Betterment is set the trend, and will continue to expand its customer base in the future.
 
+## Recommendations for Betterment |
 
+Betterment definitely should focus on customer education, service, and interaction to advance its robo advisor. Many robo-advisors are hybrid meaning there is the bot but also a human to support with investment and other realms of customer service. Maybe Betterment wont have to go completely hybrid? Betterment can take it a step further to ensure its robo-advisor offers education, customer service, and CFP-level guidance for its customers.
 
+If Betterment's robo-advisor was an interactive avatar that resembled its logo that engaged in deeper dialogues outside the survey to create the portfolio, it could improve and expand its offerings to customers. For example, the robo-advisor can take its customers on a walk down wall street by engaging in conversations about the status of portfolios while providing financial education. It could also discuss rebalancing and give live updates about different companies that are within the portfolio to make quick decisions to turn better profits for its customers.
 
+This avatar of the robo advisor could float around on a person's phone or desktop to ensure ease-to-access throughout the day. Customers could then access the robo-advisor for customer service questions such as trying to transfer money or technical errors with the app. The robo advisor could then troubleshoot or connect with a rep at Betterment to support with solving any issues. Such a setup can also be used to connect with CFPs or other investment professionals for customers that are signed up for a premium account at Betterment.
 
+An avatar of the robo-advisor? That’s going to take another layer of technology. Betterment would have to invest in artificial intelligence (AI), machine learning, voice commands, and animation to ensure effective functionalities of the robo-advisor. AI and machine learning would allow the robo advisor to interact with the stock market and scrub the internet for updates of businesses to ensure live updates to its customers. It would also need to pick up on common words in a conversation with customers to lead into the next prompt such as tech support or connecting with a CFP. Lastly, the animator and speech technology? Makes all the things fun such as the robo-advisor roaming around your screen or responding to mouse-overs, and updating you while you get ready for the day.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+It would be worthwhile to invest in avatar-like tech to ensure its robo advisor isn't just a survey but to humanize to increase and sustain customers' engagement with investment at Betterment.  It is the largest independent robo-advisor, why not take on another challenge in the fintech industry? 
 
 ## Resources |
-* [Betterment Crunchbase](https://www.crunchbase.com/organization/betterment)
-* [The History of Betterment: How We Started a Company That Is Changing an Industry](https://www.linkedin.com/pulse/history-betterment-how-we-started-company-changing-industry-stein/)
-* [Investopedia: Betterment Review](https://www.investopedia.com/betterment-review-4587887)
-* [Investopedia: Best Robo-Advisors](https://www.investopedia.com/best-robo-advisors-4693125)
-* [Betterment Review 2023: Making Investing Simple](https://investorjunkie.com/reviews/betterment/)
-* [Why Betterment's Robo-Advisor Doesn't Use AI](https://www.emergingtechbrew.com/stories/2022/10/11/why-betterment-s-robo-advisor-doesn-t-use-ai)
 * [Best robo-advisors in April 2023](https://www.bankrate.com/investing/best-robo-advisors/)
-* [Investopedia: Robo-Advisor](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp)
+* [Betterment Review 2023: Making Investing Simple](https://investorjunkie.com/reviews/betterment/)
 * [Deloitte: The expnasion of Robo-Adivsory in Wealth Management](https://www2.deloitte.com/content/dam/Deloitte/de/Documents/financial-services/Deloitte-Robo-safe.pdf)
-* [Statista: Robo-Advisors - Worldwide](https://www.statista.com/outlook/dmo/fintech/digital-investment/robo-advisors/worldwide)
-* [Investopedia: How Acorns Make Money](https://www.investopedia.com/articles/company-insights/090516/how-acorns-works-and-makes-money.asp#:~:text=Acorns%20operates%20a%20platform%20allowing,banking%20services%20at%20low%20fees)
-* [How does Acorns Rebalance My Portfolio](https://support.acorns.com/hc/en-us/articles/360052528214-How-does-Acorns-rebalance-my-portfolio-)
-* [Pricing at Betterment](https://www.betterment.com/pricing)
 * [FAQs: Costs and Fees of Intelligent Portfolios](https://intelligent.schwab.com/page/faq/pay-no-advisory-fees)
-* [Understanding Portfolio Diversification](https://www.sofi.com/learn/content/why-portfolio-diversification-matters/)
-* [Rate of Return (RoR): Formulate and Calculations Examples](https://www.sofi.com/learn/content/rate-of-return/)
-* [What Are the Different Types of Investment Fees?](https://www.sofi.com/learn/content/investment-fees/)
 * [Guide to Understanding and Tracking Robo-Advisor Returns](https://www.sofi.com/learn/content/robo-advisor-returns/)
+* [How does Acorns Rebalance My Portfolio](https://support.acorns.com/hc/en-us/articles/360052528214-How-does-Acorns-rebalance-my-portfolio-)
+* [Investopedia: Best Robo-Advisors](https://www.investopedia.com/best-robo-advisors-4693125)
+* [Investopedia: Betterment Review](https://www.investopedia.com/betterment-review-4587887)
+* [Investopedia: How Acorns Make Money](https://www.investopedia.com/articles/company-insights/090516/how-acorns-works-and-makes-money.asp#:~:text=Acorns%20operates%20a%20platform%20allowing,banking%20services%20at%20low%20fees)
+* [Investopedia: Robo-Advisor](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp)
+* [Need a Talking Avatar? Here Are 10 Options To Go With](https://graphicmama.com/blog/need-a-talking-avatar-here-are-your-options/)
+* [Pricing at Betterment](https://www.betterment.com/pricing)
+* [Rate of Return (RoR): Formulate and Calculations Examples](https://www.sofi.com/learn/content/rate-of-return/)
+* [Statista: Robo-Advisors - Worldwide](https://www.statista.com/outlook/dmo/fintech/digital-investment/robo-advisors/worldwide)
+* [The History of Betterment: How We Started a Company That Is Changing an Industry](https://www.linkedin.com/pulse/history-betterment-how-we-started-company-changing-industry-stein/)
+* [Understanding Portfolio Diversification](https://www.sofi.com/learn/content/why-portfolio-diversification-matters/)
+* [Verizon: Speech Recognition Technology](https://www.verizon.com/articles/speech-recognition-technology/)
+* [What Are the Different Types of Investment Fees?](https://www.sofi.com/learn/content/investment-fees/)
+* [Why Betterment's Robo-Advisor Doesn't Use AI](https://www.emergingtechbrew.com/stories/2022/10/11/why-betterment-s-robo-advisor-doesn-t-use-ai)
+
 
