@@ -51,6 +51,23 @@ Acorns is platform that takes small savings based on spending habits and micro-i
 
 There is a lot of competition as  each roboadvisor utilizes different technology in the realms of big data to create successful portfolios and disrupt the fintech industry. Yet, we can expect Betterment to set trends and  evolve into the top roboadvisor as it turns money for its customers.
 
+## Evaluation of Betterment |
+
+There are various metrics that determine the effectiveness of a robo-advisor for its customers. 
+
+One metric is rate of returns which is the measure of an investment gains or loss expressed as a percentage of its starting value within a band of time. If a robo advisor has a leading rate of return in comparison to the S&P 500, then you’re in the right place to automate your money management. Or you could check out the returns of competing robot advisors? The YTD (through 9/30/22) rate of return for Betterment is -20.595, Acorns is at -21.19% and Charles Schawb had the best at -18.28%. It would make sense then to select Charles Schawb if this robo advisor aligns with your goals.
+
+Another key indicator is diversification which is putting your eggs in different baskets or investing your money across different assets to mitigate any risk. With its 3 acquisitions, Betterment is strengthening its robo advisors capacity to diverse portfolios for its customers. Not only does it provide the traditional ETFS, the robo advisor can choose from SRIs, cryptocurrency, and IRAs to mitigate risk while also increasing returns towards set goals.
+
+The next measure is the ability to rebalance a portfolio to ensure it stays on track. All robo advisors rebalance and such mechanisms can be found in the algorithms.Betterment has set its rebalancing at a deviation rate of 3% while Acorns readjusts if 1 or more ETFS fluctuates 5% above or below. The robo advisors must also review portfolios to rebalance to ensure its keeps within a particular bandwidth. A good measure is to check how frequently a robo-advisor reviews portfolios, its fluctuation rate, and how it rebalances towards a customer's goals.
+
+Lastly, measures should also include investment fees and the simplicity of customer service across the board. Some investments fees are recurring which means the portion of the portfolio is charged annually while others are one time transactions are a flat fee paid by the customers. If the investment fees tend to be high, veer away since it will sink your returns. 
+
+Betterment costs $4 a month or a .25% annual fee which is affordable for new investors, especially at a $0 minimum balance to start up. There is no advisory fee or commissions for Schwab Intelligent Portfolios but a one-time planning fee of $300 and $30/month gives customers access to a Certified Financial Planner. This is a huge step in customer service as Betterment only utilizes its robo-advisor and email to answer inquiries from its investors which is not a good sign in the eyes of the competition.
+
+So what is Betterment impact? It's one of the first independent,  low-cost, and statistic based  robo advisors that steps customers through a series of goal setting to diversify a portfolio that undergo rebalancing to stay on track with high returns. Betterment is set the trend, and will continue to expand its customer base in the future.
+
+
 
 
 
@@ -81,4 +98,11 @@ There is a lot of competition as  each roboadvisor utilizes different technology
 * [Deloitte: The expnasion of Robo-Adivsory in Wealth Management](https://www2.deloitte.com/content/dam/Deloitte/de/Documents/financial-services/Deloitte-Robo-safe.pdf)
 * [Statista: Robo-Advisors - Worldwide](https://www.statista.com/outlook/dmo/fintech/digital-investment/robo-advisors/worldwide)
 * [Investopedia: How Acorns Make Money](https://www.investopedia.com/articles/company-insights/090516/how-acorns-works-and-makes-money.asp#:~:text=Acorns%20operates%20a%20platform%20allowing,banking%20services%20at%20low%20fees)
+* [How does Acorns Rebalance My Portfolio](https://support.acorns.com/hc/en-us/articles/360052528214-How-does-Acorns-rebalance-my-portfolio-)
+* [Pricing at Betterment](https://www.betterment.com/pricing)
+* [FAQs: Costs and Fees of Intelligent Portfolios](https://intelligent.schwab.com/page/faq/pay-no-advisory-fees)
+* [Understanding Portfolio Diversification](https://www.sofi.com/learn/content/why-portfolio-diversification-matters/)
+* [Rate of Return (RoR): Formulate and Calculations Examples](https://www.sofi.com/learn/content/rate-of-return/)
+* [What Are the Different Types of Investment Fees?](https://www.sofi.com/learn/content/investment-fees/)
+* [Guide to Understanding and Tracking Robo-Advisor Returns](https://www.sofi.com/learn/content/robo-advisor-returns/)
 
