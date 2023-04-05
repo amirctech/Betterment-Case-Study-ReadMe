@@ -1,6 +1,4 @@
-# Unit1_Homework
-Fintech Bootcamp Unit 1 Homework Assignment
-
+# Unit 1 Homework | Betterment Case Study
 
 ## The Betterment Story |
 Betterment as the largest independent robo-advisor was incorporated on August 25th, 2008 by Jon Stein and Eli Broverman. Jon Stein realized the concepts he learned while studying behavioral economics and biology were applicable to the many errors we make in managing our investments.Despite economics pushing us off as rational humans, Stein recognizes that we are very much driven by our emotions and this affects us in the financial realm. Stein was often inefficiently monitoring money through 7 different brokerage accounts or in other words the middleman while wasting time, taxes, and transaction costs without turning a profit much like investors that play the market.
